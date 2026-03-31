@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1774795249536,
+    "title": "cherry",
+    "description": "warawa",
+    "price": 10,
+    "stock": 8,
+    "previewImage": "/uploads/previews/1774795249530-247938522.jpg",
+    "productImage": "/uploads/products/1774795249534-688188031.JPG",
+    "createdAt": "2026-03-29T14:40:49.536Z"
+  },
+  {
+    "id": 1774805702971,
+    "title": "shazad",
+    "description": "sherakam",
+    "price": 10,
+    "stock": 10,
+    "previewImage": "/uploads/previews/1774805702964-763994839.WEBP",
+    "productImage": "/uploads/products/1774805702968-742006364.WEBP",
+    "createdAt": "2026-03-29T17:35:02.971Z"
+  },
+  {
+    "id": 1774827428927,
+    "title": "jika",
+    "description": "pekanin",
+    "price": 10,
+    "stock": 9,
+    "previewImage": "/uploads/previews/1774827428919-932586693.PNG",
+    "productImage": "/uploads/products/1774827428923-233915308.PNG",
+    "createdAt": "2026-03-29T23:37:08.928Z"
+  }
+]
