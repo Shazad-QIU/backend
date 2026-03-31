@@ -11,10 +11,8 @@ const PORT = process.env.PORT || 3000;
 
 // Allowed frontend origins for CORS
 const ALLOWED_ORIGINS = [
-  "https://glittery-centaur-9e0116.netlify.app",
   "https://shazaddev.netlify.app",
-  "https://exquisite-stroopwafel-7890d8.netlify.app",
-  "https://stellar-manatee-304b2a.netlify.app",
+  "https://glittery-centaur-9e0116.netlify.app",
   "http://localhost:3000",
   "http://localhost:5500",
   "http://127.0.0.1:5500"
